@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/thdailong/Algosdk-transaction#readme",
   "dependencies": {
-    "algosdk": "^1.18.1"
+    "algosdk": "^1.18.1",
+    "json-bigint": "^1.0.0"
   },
   "type": "module"
 }
